@@ -104,7 +104,7 @@ body {
  #contakt {
      display: flex;
      justify-content: center;
-     margin-top: 65px;
+     margin-top: 20px;
 }
  #contakt a {
      font: 13px 'Open Sans', sans-serif;
