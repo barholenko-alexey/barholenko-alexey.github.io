@@ -9,7 +9,7 @@ body {
 }
  #warap-bg {
      border-radius: 3px;
-     padding-bottom: 17px;
+     padding-bottom: 27px;
      background: rgba(0, 0, 0, 0.93);
 }
  .top-name-img {
@@ -104,7 +104,7 @@ body {
  #contakt {
      display: flex;
      justify-content: center;
-     margin-top: 20px;
+     margin-top: 35px;
 }
  #contakt a {
      font: 13px 'Open Sans', sans-serif;
