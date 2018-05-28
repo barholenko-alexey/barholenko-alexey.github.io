@@ -13598,7 +13598,7 @@ h3 + .table-custom-responsive {
     position: relative;
     display: block;
     max-width: 100%;
-    z-index: -1; }
+    }
 
 .thumb-bubba__overlay,
 .thumb-bubba__content {
@@ -13608,7 +13608,8 @@ h3 + .table-custom-responsive {
   width: 100%;
   height: 100%;
   padding: 40px;
-  color: #fff; }
+  color: #fff; 
+}
   .thumb-bubba__overlay *,
   .thumb-bubba__content * {
     color: inherit; }
@@ -25384,3 +25385,4 @@ a.pswp__share--download:hover {
 
 [class*='ie-'] .carousel-center-mode .slick-current.slick-active.slick-center {
   left: -45px; }
+
